@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BGM Reference for YouTube Video : Guts King"
+title:  "Celebrating World Book and Copyright Day with Calming Classical Music Playlist"
 ---
 <h1>Celebrating World Book and Copyright Day with Calming Classical Music Playlist</h1>
 <h2>Learn about World Book and Copyright Day, and enjoy a curated playlist of classical music that is perfect for reading, studying, or falling asleep.</h2>
