@@ -9,7 +9,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p>The copyright-free music library, SELLBUYMUSIC, has many artists actively involved in producing music for various purposes such as YouTube, streaming, advertising, and in-store music. This post is a section to introduce such artists.</p>
 <p>This week's artist is Gyeoul Park, who also works as a conductor and focuses on orchestral arrangements. Let's take a look at this artist, who has composed a variety of songs including songs for musicals.</p>
 
-<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist1_Introduction%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20artist.jpg" alt="copyright_1 video editting" style="zoom:100%;" /></p>
+![Artist1_Introduction of Gyeoul Park - Sellbuymusic artist](../images/2023-04-24-ArtistGyeoul/Artist1_Introduction of Gyeoul Park - Sellbuymusic artist-1682322047971-6.jpg)
 
 <p>[image 1] Introduction of Gyeoul Park - Sellbuymusic artist</p>
 <p><strong>Q1. Please introduce yourself and tell us which genre of music you mainly create?</strong></p>
@@ -25,7 +25,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p><strong>Q4. What is the most important aspect you focus on when creating music?</strong></p>
 <p><strong>A.</strong> Because music is needed in various places, I focus on creating songs that can capture the atmosphere of the place where the music will be used.</p>
 
-<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist3_love%20with%20the%20wind%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20song.jpg" alt="copyright_1 video editting" style="zoom:100%;" /></p>
+
 
 <p>[image 3] love with the wind of Gyeoul Park - Sellbuymusic song</p>
 <p><strong>Q5. What's your favorite song you've created?</strong></p>
