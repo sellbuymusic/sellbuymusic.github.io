@@ -6,11 +6,11 @@ title:  "Celebrating World Book and Copyright Day with Calming Classical Music P
 <h2>Learn about World Book and Copyright Day, and enjoy a curated playlist of classical music that is perfect for reading, studying, or falling asleep.</h2>
 <h3>World Book and Copyright Day, established by UNESCO in 1995, promotes reading, publishing, and protecting copyright. On April 23rd, the literary world celebrates the birth and death of famous authors such as William Shakespeare and Miguel de Cervantes. To commemorate this holiday, SELLBUYMUSIC has prepared a curated playlist of calming classical music that is ideal for art exhibitions, reading, and sleep. All songs are copyright-free and can be downloaded from the SELLBUYMUSIC website. Subscribe to receive a weekly playlist and use these songs in your YouTube videos to generate advertising revenue without any copyright issues.</h3></p>
 
+<p><img src="../images/2023-04-21-Celebrate/playlist1_world%20book%20and%20copyright%20day.jpg" alt="copyright_1 video editting" style="zoom:25%;" /></p></p>
 
 <p>Do you know that April 23rd is World Book and Copyright Day? This holiday was established in 1995 by UNESCO to promote reading, publishing, and the protection of copyright. April 23rd is a significant day in the literary world because it is the day when several famous authors were born or died, including William Shakespeare, Miguel de Cervantes, and Inca Garcilaso de la Vega, among others.</p>
 
-![playlist2_amazon event for world book and copyright day](../images/2023-04-21-Celebrating/playlist2_amazon event for world book and copyright day.jpg)
-
+<img src="../images/2023-04-21-Celebrate/playlist2_amazon%20event%20for%20world%20book%20and%20copyright%20day.jpg" alt="copyright_1 video editting" style="zoom:25%;" />
 
 <p>[image 2] amazon event for world book and copyright day</p>
 <p>Various events are held around the world to commemorate World Book and Copyright Day. In the UK, an official organization called World Book Day operates a £1 book token scheme. In the United States, a street festival is held in Kensington, Maryland on the nearest Sunday. Since 2018, Amazon Publishing, a global internet bookstore, has been distributing ebooks for free on this holiday.</p>

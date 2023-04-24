@@ -9,7 +9,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p>The copyright-free music library, SELLBUYMUSIC, has many artists actively involved in producing music for various purposes such as YouTube, streaming, advertising, and in-store music. This post is a section to introduce such artists.</p>
 <p>This week's artist is Gyeoul Park, who also works as a conductor and focuses on orchestral arrangements. Let's take a look at this artist, who has composed a variety of songs including songs for musicals.</p>
 
-![Artist1_Introduction of Gyeoul Park - Sellbuymusic artist](../images/2023-04-24-ArtistGyeoul/Artist1_Introduction of Gyeoul Park - Sellbuymusic artist-1682323017075-21.jpg)
+<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist1_Introduction%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20artist.jpg" alt="copyright_1 video editting" style="zoom:100%;" /></p>
 
 <p>[image 1] Introduction of Gyeoul Park - Sellbuymusic artist</p>
 <p><strong>Q1. Please introduce yourself and tell us which genre of music you mainly create?</strong></p>
@@ -17,7 +17,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p><strong>Q2. How did you come to know about SELLBUYMUSIC?</strong></p>
 <p><strong>A.</strong> I was looking for a site where I could earn money while keeping the BGM I had composed for a play.</p>
 
-![Artist2_artist reference of Gyeoul Park - Sellbuymusic artist](../images/2023-04-24-ArtistGyeoul/Artist2_artist reference of Gyeoul Park - Sellbuymusic artist.png)
+<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist2_artist%20reference%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20artist.png" alt="copyright_1 video editting" style="zoom:100%;" /></p>
 
 <p>[image 2] artist reference of Gyeoul Park - Sellbuymusic artist</p>
 <p><strong>Q3. Do you have any artists or songs that inspire you?</strong></p>
@@ -25,7 +25,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p><strong>Q4. What is the most important aspect you focus on when creating music?</strong></p>
 <p><strong>A.</strong> Because music is needed in various places, I focus on creating songs that can capture the atmosphere of the place where the music will be used.</p>
 
-![Artist3_love with the wind of Gyeoul Park - Sellbuymusic song](../images/2023-04-24-ArtistGyeoul/Artist3_love with the wind of Gyeoul Park - Sellbuymusic song-1682323027583-24.jpg)
+<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist3_love%20with%20the%20wind%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20song.jpg" alt="copyright_1 video editting" style="zoom:100%;" /></p>
 
 <p>[image 3] love with the wind of Gyeoul Park - Sellbuymusic song</p>
 <p><strong>Q5. What's your favorite song you've created?</strong></p>
@@ -33,7 +33,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p><strong>Q6. Please introduce your music to our readers in your own words.</strong></p>
 <p><strong>A.</strong> My name is "Gyeoul Park," and I make emotional and warm music that suits my name. I would be grateful if you listen to it.</p>
 
-![Artist4_motif of Gyeoul Park - Sellbuymusic artist](../images/2023-04-24-ArtistGyeoul/Artist4_motif of Gyeoul Park - Sellbuymusic artist.jpg)
+<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist4_motif%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20artist.jpg" alt="copyright_1 video editting" style="zoom:100%;" /></p>
 
 <p>[image 4] motif of Gyeoul Park - Sellbuymusic artist</p>
 <p><strong>Q7. What are some musically inspiring moments in your daily life?</strong></p>
