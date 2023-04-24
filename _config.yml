@@ -5,7 +5,7 @@
 # Yet another theme for elegant writers with modern flat style and beautiful
 # night/dark mode.
 #
-# Website: https://github.com/jeffreytse/jekyll-theme-yat
+# Website: https://en.sellbuymusic.com/
 #
 # You can do anything you want, including projects for your clients, as long
 # as you mention an attribution back (credit links in footer or project).
@@ -156,8 +156,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "Sellbuymusic"
+#     subheading: "Royalty Free Music for everyone"
 #     banner: "Your image url"
 
 # Banner default settings
