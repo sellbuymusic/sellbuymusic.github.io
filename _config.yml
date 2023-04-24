@@ -155,12 +155,12 @@ yat:
 
 Page default value
 defaults:
-  home:
+  home: 
     heading: "Sellbuymusic"
     subheading: "Royalty Free music"
-    banner: <a href="https://ibb.co/xgx7Kgj"><img src="https://i.ibb.co/c84rK8F/image.jpg" alt="image" border="0"></a>
+    banner: ""
 
-Banner default settings
+# Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
 # banner:
