@@ -153,12 +153,12 @@ yat:
 #   - tags.html
 #   - about.md
 
-# Page default value
-# defaults:
-#   home:
-#     heading: "Sellbuymusic"
-#     subheading: "Royalty Free music"
-#     banner: "Your image url"
+ Page default value
+ defaults:
+   home:
+     heading: "Sellbuymusic"
+     subheading: "Royalty Free music"
+     banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
