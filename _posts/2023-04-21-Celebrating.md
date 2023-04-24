@@ -9,6 +9,8 @@ title:  "Celebrating World Book and Copyright Day with Calming Classical Music P
 
 <p>Do you know that April 23rd is World Book and Copyright Day? This holiday was established in 1995 by UNESCO to promote reading, publishing, and the protection of copyright. April 23rd is a significant day in the literary world because it is the day when several famous authors were born or died, including William Shakespeare, Miguel de Cervantes, and Inca Garcilaso de la Vega, among others.</p>
 
+![playlist2_amazon event for world book and copyright day](../images/2023-04-21-Celebrating/playlist2_amazon event for world book and copyright day.jpg)
+
 
 <p>[image 2] amazon event for world book and copyright day</p>
 <p>Various events are held around the world to commemorate World Book and Copyright Day. In the UK, an official organization called World Book Day operates a £1 book token scheme. In the United States, a street festival is held in Kensington, Maryland on the nearest Sunday. Since 2018, Amazon Publishing, a global internet bookstore, has been distributing ebooks for free on this holiday.</p>
