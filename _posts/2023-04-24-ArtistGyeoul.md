@@ -17,7 +17,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p><strong>Q2. How did you come to know about SELLBUYMUSIC?</strong></p>
 <p><strong>A.</strong> I was looking for a site where I could earn money while keeping the BGM I had composed for a play.</p>
 
-<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist2_artist%20reference%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20artist.png" alt="copyright_1 video editting" style="zoom:100%;" /></p>
+
 
 <p>[image 2] artist reference of Gyeoul Park - Sellbuymusic artist</p>
 <p><strong>Q3. Do you have any artists or songs that inspire you?</strong></p>
@@ -33,7 +33,7 @@ In this post, we introduce various artists active on SELLBUYMUSIC, featuring Gye
 <p><strong>Q6. Please introduce your music to our readers in your own words.</strong></p>
 <p><strong>A.</strong> My name is "Gyeoul Park," and I make emotional and warm music that suits my name. I would be grateful if you listen to it.</p>
 
-<p><img src="../images/2023-04-24-ArtisitGyeoul/Artist4_motif%20of%20Gyeoul%20Park%20-%20Sellbuymusic%20artist.jpg" alt="copyright_1 video editting" style="zoom:100%;" /></p>
+
 
 <p>[image 4] motif of Gyeoul Park - Sellbuymusic artist</p>
 <p><strong>Q7. What are some musically inspiring moments in your daily life?</strong></p>
