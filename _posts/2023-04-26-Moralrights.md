@@ -17,6 +17,8 @@ First of all, moral rights are 'perpetual' rights. **It cannot be transferred, r
 
 Moral rights are generally divided into three categories: Right of Publicity, Right of Name, and Right of Identity. In addition, there are other rights that are related to the behavior that constitutes infringement. Let's start with the first three.
 
+![copyright claim](../images/2023-04-26-Moralrights/copyright claim.jpg)
+
 ### Right of Disclosure (Publication Rights)
 
 This is the right to decide whether or not to publish your work and, of course, to decide when and how to publish it.
@@ -24,6 +26,8 @@ This is the right to decide whether or not to publish your work and, of course, 
 ### **Right of Attribution**
 
 The right to display the author's real or assumed name on their work. The Berne Convention simply states "the right to claim authorship of a work," but depending on the nature of the work and the context in which it is used, you can omit the attribution. For example, if you play music in a store, you can't credit the composer.
+
+![copyright - author and reputation](../images/2023-04-26-Moralrights/copyright - author and reputation.jpg)
 
 ### Right of Integrity
 
@@ -36,6 +40,8 @@ This is the right to maintain the form of one's own work. If you want to change 
 - Other changes deemed necessary in light of the purpose and form of use.
 
 In addition, there are elements that are related to acts that are considered to be copyright infringement. Although they are not clearly protected by the right to maintain the integrity of the work, they are considered in cases of copyright infringement and are actually protected: posthumous protection of the author, modification and increase of the work, and reputation. Each of these is explained below.
+
+![disclosure and attribution of art](../images/2023-04-26-Moralrights/disclosure and attribution of art.jpg)
 
 ### **Posthumous Protection of the Author**
 
