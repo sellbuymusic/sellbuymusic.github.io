@@ -5,9 +5,13 @@ title:  "[🎼Playlist] Let's celebrate World Penguin Day! Playlist of new age m
 
 ## Celebrating World Penguin Day, we introduce you to a BGM list that sings about your love for penguins along with fun facts about them!
 
+![화면 캡처 2023-04-27 094723](../images/2023-04-27-PlaylistPenguinDay/화면 캡처 2023-04-27 094723.jpg)
+
 ### World Penguin Day is celebrated on April 25 and plays an important role in protecting penguins' natural habitats and maintaining their ecosystems. Through this day, we want to send a message that we should respect and protect the various life forms on our planet together.
 
 To commemorate this day, we would like to introduce a New Age BGM list that is perfect for cute pet videos. All of the music below was produced by Selby Music and will create a relaxing atmosphere with penguins.
+
+![화면 캡처 2023-04-27 094746](../images/2023-04-27-PlaylistPenguinDay/화면 캡처 2023-04-27 094746.jpg)
 
 https://en.sellbuymusic.com/albumDetail/237
 
