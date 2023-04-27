@@ -13,17 +13,17 @@ title:  "[🎼Playlist] Let's celebrate World Penguin Day! Playlist of new age m
 
 <p><a href='[https://en.sellbuymusic.com/albumDetail/237](https://en.sellbuymusic.com/albumDetail/237)' target='_blank' class='url'>[https://en.sellbuymusic.com/albumDetail/237](https://en.sellbuymusic.com/albumDetail/237)</a></p>
 <ol>
-<li>猫と一日を（A day with Kitty） - JBSon Music</li>
-<li>森の村（Forest Village） - BGMspace</li>
+<li>A day with Kitty - JBSon Music</li>
+<li>Forest Village - BGMspace</li>
 <li>come on - BGMmaster</li>
 <li>rock-paper-scissors - BGM YAMYAM</li>
 <li>a mischievous - Downy99</li>
-<li>僕がやったんじゃないんですよ！（I didn't do that）- FeelSound</li>
+<li>I didn't do that - FeelSound</li>
 <li>cute BGM 5 by Eskimo0o</li>
 <li>oops by BGMmaster</li>
 <li>What?? by BGM YAMYAM</li>
 <li>Weirdy Weird by JBSon Music</li>
-<li>A fun day:) by sell</li>
+<li>A fun day - by sell</li>
 <li>the duck family by bEAu</li>
 <li>A pretty moment by Day by Piano</li>
 <li>New Mind by Day by Piano</li>
