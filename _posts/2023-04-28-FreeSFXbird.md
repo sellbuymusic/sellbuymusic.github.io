@@ -4,7 +4,7 @@ title:  "[📂Sound Effects Collection] Sparrow, Crow, Forest Bird SFX. Cuckoo, 
 ---
 <h2>Enhance Your Videos with Captivating Bird Sound Effects from Sellbuymusic</h2>
 
-[image1] ominous bird and sky sound effect
+![1 ominous bird and sky sound effect](../images/2023-04-28-FreeSFXbird/1 ominous bird and sky sound effect.jpg)
 
 <p>Hello! This is Sellbuymusic, a copyright-free music library.</p>
 
@@ -12,7 +12,7 @@ title:  "[📂Sound Effects Collection] Sparrow, Crow, Forest Bird SFX. Cuckoo, 
 
 <p>So, today we introduce bird sound effects, including chirping birds, cawing crows, and forest bird sounds! From cheerful chirps to eerie calls! Let's listen together!</p>
 
-[image2] birds sound effect
+![2 birds sound effect](../images/2023-04-28-FreeSFXbird/2 birds sound effect.jpg)
 
 <h3>Collection of Bird Sound Effects</h3>
 
@@ -20,7 +20,7 @@ title:  "[📂Sound Effects Collection] Sparrow, Crow, Forest Bird SFX. Cuckoo, 
 
 <p>This is a collection of various bird sounds, from crows to common sparrows to birdsong accompanied by rain.</p>
 
-[image3] peaceful bird sound effect
+![3 peaceful bird sound effect](../images/2023-04-28-FreeSFXbird/3 peaceful bird sound effect.jpg)
 
 <h3>Peaceful Bird Sounds</h3>
 
@@ -28,7 +28,7 @@ title:  "[📂Sound Effects Collection] Sparrow, Crow, Forest Bird SFX. Cuckoo, 
 
 <p>This sound effect appears to be the most peaceful.</p>
 
-[image4] brid in raining forrest sound effect
+![4 brid in raining forrest sound effect](../images/2023-04-28-FreeSFXbird/4 brid in raining forrest sound effect.jpg)
 
 <h3>Bird Sounds in a Rainforest</h3>
 
@@ -36,7 +36,7 @@ title:  "[📂Sound Effects Collection] Sparrow, Crow, Forest Bird SFX. Cuckoo, 
 
 <p>And this is the sound of birds in a rainy forest, which is widely used in practice.</p>
 
-[image5] Meadowlark sound effect
+![5 Meadowlark sound effect](../images/2023-04-28-FreeSFXbird/5 Meadowlark sound effect.jpg)
 
 <h3>Meadowlark Bird Sound</h3>
 
