@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "[📂Sound Effects Collection] Sparrow, Crow, Forest Bird SFX. Cuckoo, Chirp, Lark, Hopeful, Ominous"
+sidebar:
+    nav: "counts"
 ---
 <h2>Enhance Your Videos with Captivating Bird Sound Effects from Sellbuymusic</h2>
 
