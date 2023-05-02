@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[🎵Free Background Music] Gear Up - GoldenCalf"
-sidbar:
+sidebar:
     nav: "counts"
 ---
 <h1>🎵Free Background Music: Gear Up - GoldenCalf</h1>
