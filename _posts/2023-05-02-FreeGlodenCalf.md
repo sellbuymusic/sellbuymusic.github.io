@@ -12,6 +12,8 @@ title:  "[🎵Free Background Music] Gear Up - GoldenCalf"
 
 <p>#artist #GoldenCalf #GearUp #albumrelease</p>
 
+<img src="../images/2023-05-02-FreeGlodenCalf/gear up - album jacket photo.jpg" alt="gear up - album jacket photo" style="zoom: 25%;" />
+
 <p>[image 1] gear up - album jacket photo</p>
 
 <h3>[ Gear Up ] Song Introduction</h3>
