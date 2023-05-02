@@ -22,16 +22,16 @@ title:  "[🎵Free Background Music] Gear Up - GoldenCalf"
 
 <h4>[ Credit ]</h4>
 
-<p>Lyrics by Shin Arin</p>
-<p>Composed by GoldieWatch, DeepTune, Shin Arin</p>
-<p>Arranged by GoldieWatch, DeepTune</p>
-<p>MIX: GoldenCalf</p>
-<p>MASTER: GoldenCalf</p>
-<p>DRUM: GoldieWatch, DeepTune</p>
-<p>BASS: GoldieWatch</p>
-<p>PIANO: GoldieWatch</p>
-<p>SYNTH: GoldieWatch, DeepTune</p>
-<p>FX: DeepTune</p>
+<li>Lyrics by Shin Arin</p>
+<li>Composed by GoldieWatch, DeepTune, Shin Arin</p>
+<li>Arranged by GoldieWatch, DeepTune</p>
+<li>MIX: GoldenCalf</p>
+<li>MASTER: GoldenCalf</p>
+<li>DRUM: GoldieWatch, DeepTune</p>
+<li>BASS: GoldieWatch</p>
+<li>PIANO: GoldieWatch</p>
+<li>SYNTH: GoldieWatch, DeepTune</p>
+<li>FX: DeepTune</p>
 
 <h3>Artist [ GoldenCalf ]</h3>
 
