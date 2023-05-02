@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Understanding Copyright: What are Moral rights?"
+sidebar:
+    nav: "counts"
 ---
 
 Hello everyone!

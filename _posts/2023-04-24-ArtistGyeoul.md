@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Artist of This Week : Gyeoul Park"
+sidebar:
+    nav: "counts"
 ---
 <h1>Artist of This Week : Gyeoul Park</h1>
 <h2>Exploring the Artistic Pursuits of Gyeoul Park, Focusing on Orchestral Arrangements and Musical Compositions</h2>

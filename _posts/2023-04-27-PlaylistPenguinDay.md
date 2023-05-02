@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "[🎼Playlist] Let's celebrate World Penguin Day! Playlist of new age music that's perfect for pet YouTubers 😸🐶"
+sidebar:
+    nav: "counts"
 ---
 
 <h2>Celebrating World Penguin Day, we introduce you to a BGM list that sings about your love for penguins along with fun facts about them!</h2>
