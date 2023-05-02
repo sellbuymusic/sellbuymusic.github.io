@@ -21,7 +21,7 @@ title:  "[🎵Free Background Music] Gear Up - GoldenCalf"
 <p>Aiming to convey the message of breaking free from the daily grind, an unchangeable past, an uncertain future, and focusing on the present moment to ultimately succeed. Using the metaphor of a 'racer,' the song expresses the process of reaching the finish line on a circuit rail encountered each time with alternative pop and EDM music. It intends to deliver powerful energy that can be overcome with 'Gear Up' to those who want to overcome difficulties by focusing on the present moment.</p>
 
 <h4>[ Credit ]</h4>
-
+<ul style="list-style-type: disc;">
 <li>Lyrics by Shin Arin</p>
 <li>Composed by GoldieWatch, DeepTune, Shin Arin</p>
 <li>Arranged by GoldieWatch, DeepTune</p>
@@ -32,6 +32,7 @@ title:  "[🎵Free Background Music] Gear Up - GoldenCalf"
 <li>PIANO: GoldieWatch</p>
 <li>SYNTH: GoldieWatch, DeepTune</p>
 <li>FX: DeepTune</p>
+</ul>
 
 <h3>Artist [ GoldenCalf ]</h3>
 
