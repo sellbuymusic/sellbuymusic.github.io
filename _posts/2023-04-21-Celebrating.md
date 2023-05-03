@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Celebrating World Book and Copyright Day with Calming Classical Music Playlist"
 sidebar:
     nav: "counts"
