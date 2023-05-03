@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "[🎼Playlist] Let's celebrate World Penguin Day! Playlist of new age music that's perfect for pet YouTubers 😸🐶"
 sidebar:
     nav: "counts"
