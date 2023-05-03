@@ -59,4 +59,7 @@ The right to maintain the integrity of the work generally protects the author's 
 
 That's how the right to maintain the integrity of the work is summarized. Did you understand it well? If you have any questions or parts that you still don't understand, feel free to ask SELLBUYMUSIC anytime!
 
-copyright free background music library SELLBUYMUSIC https://en.sellbuymusic.com/
+<div style="text-align: center;">Royalty Free Music</div>
+<div style="text-align: center;">SELLBUYMUSIC</div>
+<div style="text-align: center;"><a title="" target="_blank" href="https://en.sellbuymusic.com/">https://en.sellbuymusic.com/<br /></a><br />
+
