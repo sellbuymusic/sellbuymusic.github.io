@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "[🎵Free Background Music] Gear Up - GoldenCalf"
 sidebar:
     nav: "counts"
