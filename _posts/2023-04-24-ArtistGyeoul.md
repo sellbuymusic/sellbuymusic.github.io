@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Artist of This Week : Gyeoul Park"
 sidebar:
     nav: "counts"
