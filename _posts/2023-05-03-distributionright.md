@@ -7,7 +7,9 @@ sidebar:
 <h1>Understanding Copyright : What is distribution right?</h1>
 <h2>Can I use movie/drama’s music even after the copyright protection period has expired?</h2>
 
-<p>[image 1] What is distribution right and movie music</p>
+![[image 1] What is distribution right and movie music<](../images/2023-05-03-distributionright/watching_movie.JPG)
+
+
 <p>Hello everyone, this is Sellbuymusic, a royalty-free stock music library.</p>
 <p>When we watch movies or dramas, we often hear great OSTs and many people think, &quot;I want to use that OST too.&quot;</p>
 <p>Today, I would like to talk about the &quot;distribution right,&quot; which is one of the components of copyright. Before we get into the content, let&#39;s briefly learn about the distribution right.</p>
@@ -17,7 +19,8 @@ sidebar:
 <p>In other words, if we assume that we are selling books, this principle eliminates the inconvenience of obtaining permission from the copyright owner every time the book is sold, from the publisher to the wholesaler, the wholesaler to the bookstore, and finally to the consumer. Once the initial sale is made, the copyright holder&#39;s distribution right is extinguished.</p>
 <p>Below is a Q&amp;A related to the distribution right.</p>
 
-<p>[image 2] How Can I use movie Kingsmans’s music</p>
+<img src="../images/2023-05-03-distributionright/kingsman.jpg" alt="[image 2] How Can I use movie Kingsmans’s music" style="zoom: 50%;" />
+
 <h3>Q: I want to use the music from the movie &quot;Kingsman.&quot; How can I use the copyright? Also, how should I credit it if I use it?</h3>
 <h3>A: The copyright protection period is 70 years after the author&#39;s death. When the Korean Copyright Act was established in 1957, the protection period was set to &quot;the author&#39;s lifetime plus 30 years.&quot; Over time, in 1987, the Copyright Act was completely revised, and the protection period was extended to &quot;50 years after the author&#39;s death.&quot; After the Korea-U.S. Free Trade Agreement (FTA) was signed, the protection period was extended to 70 years from July 1, 2013. In other words, for authors who died before December 31, 1962, the protection period is considered to have expired.</h3>
 
