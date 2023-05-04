@@ -8,25 +8,31 @@ sidebar:
 <h3>Discover the various incarnations of Son Goku in the world of entertainment! From the reinterpretation of Journey to the West in the Korean animation “Fly, Superboard”, to the world-famous Japanese animation Dragon Ball, Goku has made a significant impact on popular culture. Even in the gaming world, the character has found a place in League of Legends, and most recently, Korean idol group SEVENTEEN released a song inspired by the iconic figure. Explore the different portrayals of Goku and their influence on fans of all ages!</h3>
 
 <p>What comes to your mind when you hear 'Goku'? For me, it's 'Fly, Superboard'! Besides that, there are Dragon Ball, LoL Goku character, God of High School, SEVENTEEN, etc.! It's fun to see how thoughts differ depending on age 😄 Let me introduce some Gokus in the order they appeared.</p>
-</p>
+![Son Goku in Fly Superboad - Korean animation](../images/2023-05-04-PlaylistSongoku/Son Goku in Fly Superboad - Korean animation.jpeg)
 <h4>Fly, Superboard</h4>
 <p>Broadcast period - 1990 ~ 2002</p>
 <p>[Image 1] Son Goku in Fly Superboad - Korean animation</p>
 
 <p>Fly, Superboard is a Korean animation that reinterprets Journey to the West, with all characters like Jeopalgye and Sa-oh-jeong being famous! It is said to have dominated the national animation scene by recording the highest audience rating of 42.8% in 1992.</p>
-</p>
+
+
+![Son Goku in Dragon Ball](../images/2023-05-04-PlaylistSongoku/Son Goku in Dragon Ball.jpg)
 <h4>Dragon Ball, Dragon Ball Z</h4>
 <p>Broadcast period - 1991 ~</p>
 <p>[Image 2] Son Goku in Dragon Ball</p>
 
 <p>Dragon Ball is a Japanese animation that is famous worldwide. It is an animation depicting the adventures of Son Goku with Bulma, Yamcha, Oolong, Puar, and Muten Roshi, in search of the Dragon Balls that grant wishes. Like Fly, Superboard, Dragon Ball also has various famous characters!</p>
-</p>
+
+
+![Goku in League of Legends](../images/2023-05-04-PlaylistSongoku/Goku in League of Legends.jpg)
 <h4>League of Legends (LOL)</h4>
 <p>2011 ~</p>
 <p>[Image 3] Goku in League of Legends</p>
 
 <p>There's Goku in the game League of Legends (LOL). The 80th character, Goku is an AD warrior champion who mainly plays in the top and jungle lines, also called the monkey champion spinning whirlwind. It's a character that appeared recently in the league!</p>
-</p>
+
+
+![Song Son Goku of SEVENTEEN - Korean Male Idol Group](../images/2023-05-04-PlaylistSongoku/Song Son Goku of SEVENTEEN - Korean Male Idol Group.jpg)
 <h4>SEVENTEEN - Son Goku (Super)</h4>
 <p>Released on 2023.04.</p>
 <p>[Image 4] Song Son Goku of SEVENTEEN - Korean Male Idol Group</p>
