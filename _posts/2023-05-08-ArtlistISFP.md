@@ -10,6 +10,8 @@ sidebar:
 <h3>Today, let&#39;s take a look at &quot;Short ISFP,&quot; a talented musician who is active as a singer-songwriter and has even released personal single music.</h3>
 <p>&nbsp;</p>
 
+<img src="../images/2023-05-08-ArtlistISFP/키작은ISFP.jpg" alt="키작은ISFP" style="zoom:150%;" />
+
 <p>[image 1] Introduction of Short ISFP - Sellbuymusic artist </p>
 <p><strong>Q1. Please introduce yourself. What genre of music do you mainly make?</strong></p>
 <p>A1. Hello, I&#39;m &quot;Short ISFP,&quot; a composer and singer-songwriter. 😊 At SELLBUYMUSIC, I mainly create cute background music or calm piano music. In addition, I release singles for my personal music activities and occasionally write music for dramas.</p>
@@ -17,6 +19,8 @@ sidebar:
 <p><strong>Q2. How did you hear about SELLBUYMUSIC?</strong></p>
 <p>A2. It was a long time ago, so I don&#39;t remember well, but I think I found it through an internet search. I was thinking about how to earn additional income through something that I could do well, and that&#39;s how I found it. :)</p>
 <p>&nbsp;</p>
+
+<img src="../images/2023-05-08-ArtlistISFP/shortisfp_freshspring.jpg" alt="shortisfp_freshspring" style="zoom:67%;" />
 
 <p>[image 2] artist reference of Short ISFP - Sellbuymusic artist </p>
 <p><strong>Q3. If there is an artist or song that inspires you, who or what is it?</strong></p>
