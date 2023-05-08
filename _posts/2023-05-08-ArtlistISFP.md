@@ -34,7 +34,7 @@ sidebar:
 <p>[image 2] fresh spring of Short ISFP - Sellbuymusic song </p>
 <p><strong>Q5. If you have a favorite song among your creations, what is it?</strong></p>
 <p>A5. It&#39;s too difficult to choose just one since all of my songs come from the heart, but if I had to pick one, I like &quot;Fresh Spring&quot; because it fits well with the current weather. Personally, I like the part where the piano comes in and it feels like taking a walk on a flower road :) </p>
-<p><strong><a href='https://www.sellbuymusic.com/musicDetail/24371' target='_blank' class='url'>https://www.sellbuymusic.com/musicDetail/24371</a></strong></p>
+<p><strong><a href='https://en.sellbuymusic.com/musicDetail/24371' target='_blank' class='url'>https://en.sellbuymusic.com/musicDetail/24371</a></strong></p>
 <p>&nbsp;</p>
 <p><strong>Q6. Can you introduce the charm points of your music to the readers?</strong></p>
 <p>A6. It&#39;s a bit embarrassing for me to say it myself, but I think it&#39;s the melody. 😉 I&#39;m not good at creating grandiose songs, but I&#39;m confident in creating cute and lively songs that can be used for vlogs or pet YouTube videos. Also, I&#39;ve been told that I have an advantage in writing lyrics that people can empathize with. I think my tendency to look at individual trees rather than the whole forest is reflected in my music.</p>
