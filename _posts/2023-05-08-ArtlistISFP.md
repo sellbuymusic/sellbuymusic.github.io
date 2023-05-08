@@ -32,7 +32,7 @@ sidebar:
 <p><strong>Q4. When making music, what do you focus on the most?</strong></p>
 <p>A4. I think I pay the most attention to the melody and atmosphere. Especially with BGMs, the mood and situation have to match well, so I tend to focus the most on whether the atmosphere fits well. Next, I pay attention to the length and structure of the song. If I keep the same atmosphere throughout the whole song, it can feel boring!</p>
 <p>&nbsp;</p>
-<p>[image 3] fresh spring of Short ISFP - Sellbuymusic song </p>
+
 <p><strong>Q5. If you have a favorite song among your creations, what is it?</strong></p>
 <p>A5. It&#39;s too difficult to choose just one since all of my songs come from the heart, but if I had to pick one, I like &quot;Fresh Spring&quot; because it fits well with the current weather. Personally, I like the part where the piano comes in and it feels like taking a walk on a flower road :) </p>
 <p><strong><a href='https://www.sellbuymusic.com/musicDetail/24371' target='_blank' class='url'>https://www.sellbuymusic.com/musicDetail/24371</a></strong></p>
