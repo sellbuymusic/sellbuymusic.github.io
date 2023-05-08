@@ -4,7 +4,7 @@ title:  "Artist of This Week : short ISFP"
 sidebar:
     nav: "counts"
 ---
-<h1>Artist of This Week : short ISFP</h1>
+
 <p>Hello everyone, this is SELLBUYMUSIC, a royalty-free stock music library!</p>
 <p>At SELLBUYMUSIC, many artists are active, releasing music for various purposes such as YouTube, streaming, advertisements, and in-store music. This post is a section that introduces such artists.</p>
 <h3>Today, let&#39;s take a look at &quot;Short ISFP,&quot; a talented musician who is active as a singer-songwriter and has even released personal single music.</h3>
