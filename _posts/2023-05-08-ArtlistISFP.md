@@ -9,6 +9,7 @@ sidebar:
 <p>At SELLBUYMUSIC, many artists are active, releasing music for various purposes such as YouTube, streaming, advertisements, and in-store music. This post is a section that introduces such artists.</p>
 <h3>Today, let&#39;s take a look at &quot;Short ISFP,&quot; a talented musician who is active as a singer-songwriter and has even released personal single music.</h3>
 <p>&nbsp;</p>
+
 <p>[image 1] Introduction of Short ISFP - Sellbuymusic artist </p>
 <p><strong>Q1. Please introduce yourself. What genre of music do you mainly make?</strong></p>
 <p>A1. Hello, I&#39;m &quot;Short ISFP,&quot; a composer and singer-songwriter. 😊 At SELLBUYMUSIC, I mainly create cute background music or calm piano music. In addition, I release singles for my personal music activities and occasionally write music for dramas.</p>
@@ -16,6 +17,7 @@ sidebar:
 <p><strong>Q2. How did you hear about SELLBUYMUSIC?</strong></p>
 <p>A2. It was a long time ago, so I don&#39;t remember well, but I think I found it through an internet search. I was thinking about how to earn additional income through something that I could do well, and that&#39;s how I found it. :)</p>
 <p>&nbsp;</p>
+
 <p>[image 2] artist reference of Short ISFP - Sellbuymusic artist </p>
 <p><strong>Q3. If there is an artist or song that inspires you, who or what is it?</strong></p>
 <p>A3. Rather than being inspired by a particular song, I tend to remember music that I like or unique techniques, and try to apply them when I write songs later on. I guess this is what you would call inspiration..? 🥰 I was influenced by pianist Yoon Ji-hee&#39;s performance and wrote a song called &quot;The Season When You Bloom&quot; (literal translation), and I also wrote a song called &quot;Walking on the Road&quot; under the influence of Kim Dong-ryul. </p>
