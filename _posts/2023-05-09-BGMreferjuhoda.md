@@ -16,7 +16,7 @@ sidebar:
     The creator we will introduce in this post is JUHODA, who has 170,000 subscribers. JUHODA is currently operating a cafe and uploads videos with various content such as travel and food vlogs. She used to work as a flight attendant before. As such, you can occasionally find videos about her stories from when she was a flight attendant.
 </p>
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hFv-RiyV5Zs" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hFv-RiyV5Zs?start=437" frameborder="0" allowfullscreen></iframe>
 </p>
 <p>
     Naturally, various music is needed for daily life, travel, and food content. Sound effects are also often sought for fun. However, it is also true that it is difficult to spend a lot of money since the barriers to entry are not high. So, it seems that many people look for royalty-free music services that allow them to use diverse and high-quality music at a relatively low cost. The background music used in this video is also copyright-free music.
