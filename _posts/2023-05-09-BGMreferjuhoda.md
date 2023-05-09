@@ -10,12 +10,12 @@ sidebar:
 <p>
     Hello! This is Sellbuymusic. These days, as the YouTube and content market grows, creators from various fields are making their presence known. Among them, there are quite a lot of content related to daily life and careers. Today, we would like to introduce one such creator.
 </p>
-<img src="../images/2023-05-09-BGMreferjuhoda/YouTube%20Channel%20-%20JUHODA.png" alt="키작은ISFP" style="zoom:150%;" />
+<img src="../images/2023-05-09-BGMreferjuhoda/YouTube%20Channel%20-%20JUHODA.png" alt="YouTube Channel - JUHODA" style="zoom:150%;" />
 <p>
     The creator we will introduce in this post is JUHODA, who has 170,000 subscribers. JUHODA is currently operating a cafe and uploads videos with various content such as travel and food vlogs. She used to work as a flight attendant before. As such, you can occasionally find videos about her stories from when she was a flight attendant.
 </p>
 <p>
-    <strong><a href="https://youtu.be/hFv-RiyV5Zs?t=435">https://youtu.be/hFv-RiyV5Zs?t=435</a></strong>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/v=hFv-RiyV5Zs&t=437s" frameborder="0" allowfullscreen></iframe>
 </p>
 <p>
     Naturally, various music is needed for daily life, travel, and food content. Sound effects are also often sought for fun. However, it is also true that it is difficult to spend a lot of money since the barriers to entry are not high. So, it seems that many people look for royalty-free music services that allow them to use diverse and high-quality music at a relatively low cost. The background music used in this video is also copyright-free music.
