@@ -10,7 +10,7 @@ sidebar:
 <p>
     Hello! This is Sellbuymusic. These days, as the YouTube and content market grows, creators from various fields are making their presence known. Among them, there are quite a lot of content related to daily life and careers. Today, we would like to introduce one such creator.
 </p>
-![YouTube Channel - JUHODA](../images/2023-05-09-BGMreferjuhoda/YouTube Channel - JUHODA.png)
+
 
 <p>
     The creator we will introduce in this post is JUHODA, who has 170,000 subscribers. JUHODA is currently operating a cafe and uploads videos with various content such as travel and food vlogs. She used to work as a flight attendant before. As such, you can occasionally find videos about her stories from when she was a flight attendant.
