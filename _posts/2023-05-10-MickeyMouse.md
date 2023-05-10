@@ -10,6 +10,8 @@ sidebar:
 <p>This is the Royalty Free Stock Music Library, Sellbuymusic.</p>
 <p><strong>Today, I want to talk about the exclusive copyright of Walt Disney&#39;s Mickey Mouse, which is famous worldwide.</strong></p>
 <p>1928 was the year when Mickey Mouse was born. He has become a symbol of the Walt Disney Company, even though he is now 95 years old.</p>
+
+
 <p><strong>Q1. What is copyright?</strong></p>
 <p>A1. Copyright is the exclusive right that authors or their successors in title have to use or authorize the use of their literary, artistic, or scientific works.</p>
 <p><strong>Q2. What type of copyright does Mickey Mouse have?</strong></p>
