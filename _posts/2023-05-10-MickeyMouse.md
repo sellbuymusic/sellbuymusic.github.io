@@ -11,7 +11,6 @@ sidebar:
 <p><strong>Today, I want to talk about the exclusive copyright of Walt Disney&#39;s Mickey Mouse, which is famous worldwide.</strong></p>
 <p>1928 was the year when Mickey Mouse was born. He has become a symbol of the Walt Disney Company, even though he is now 95 years old.</p>
 
-<img src="../images/2023-05-10-MickeyMouse/20230510 Mickey Mouse.jpg" alt="[Image 1] Mickey Mouse's copyright type" style="zoom:67%;" />
 <img src="/images/2023-05-10-MickeyMouse/20230510 Mickey Mouse.jpg" alt="[Image 1] Mickey Mouse's copyright type">
 
 
