@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "YUnderstanding Copyright : Walt Disney's Mickey Mouse Exclusive"
+title:  "Understanding Copyright : Walt Disney's Mickey Mouse Exclusive"
 categories: Understanding Copyright
 tag: [Copyright, Mickey Mouse]
 sidebar:
