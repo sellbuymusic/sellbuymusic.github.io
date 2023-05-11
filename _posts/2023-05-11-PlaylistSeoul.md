@@ -17,7 +17,7 @@ sidebar:
 
 <p>On April 29th, Seoul City staged the confirmed slogan 'Seoul, my soul' at the end of the 2023 Han River Light Show (Drone Light Show) held at the Ttukseom Han River Park Waterfront Stage. It's really cool!</p>
 <p>And from May 10th to 31st, Seoul City is conducting a design vote for the confirmed new slogan 'Seoul, my soul'. Don't miss the opportunity to choose the design of Seoul City's slogan and everyone participate in the voting!</p>
-<p>[image4] Design Candidate of New Slogan of Seoul City 'Seoul My Soul’</p>
+
 <p><a href="https://brandvote.seoul.go.kr/"></a><a href="https://brandvote.seoul.go.kr/">https://brandvote.seoul.go.kr/</a></p>
 <p>So the theme of today's weekly playlist prepared by the editor is <strong>"Seoul, My Soul | Indie, Festival BGM 🎇"</strong>. In commemoration of the new slogan, we've prepared 'Indie&amp;Festival BGM' that goes well with outing events. It will be perfect for outings &amp; festival BGMs, as well as for walks/rides, landscape videos, and drone footage!</p>
 <p><a href="https://en.sellbuymusic.com/albumDetail/239"></a><a href="https://en.sellbuymusic.com/albumDetail/239">https://en.sellbuymusic.com/albumDetail/239</a></p>
