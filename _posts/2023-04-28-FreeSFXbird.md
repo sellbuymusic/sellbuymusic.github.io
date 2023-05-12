@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "[📂Sound Effects Collection] Sparrow, Crow, Forest Bird SFX. Cuckoo, Chirp, Lark, Hopeful, Ominous"
+categories: Free SFX
+tag: [Free SFX, Sound Effect, animal]
 sidebar:
     nav: "counts"
 ---
