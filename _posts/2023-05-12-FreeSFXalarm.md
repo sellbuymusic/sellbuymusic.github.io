@@ -10,7 +10,7 @@ sidebar:
 <h3>Today, we have brought emergency alarm sound effects.</h3>
 <p>We have a beep beep sound effect, a ticking sound effect like a grandfather clock, and even an analog clock sound effect. Please feel free to use them as you like!</p>
 <p>&nbsp;</p>
-<img src="/2023-05-12-FreeSFXalarm/%5Bimage1%5D%20Emergency%20Alarm%20-%20SFX.jpg" alt="[image2] Clock Alarm - SFX">
+<img src="/images/2023-05-12-FreeSFXalarm/%5Bimage1%5D%20Emergency%20Alarm%20-%20SFX.jpg" alt="[image1] Emergency Alarm - SFX">
 
 <ul>
 <li><strong>Emergency Alarm</strong> 
