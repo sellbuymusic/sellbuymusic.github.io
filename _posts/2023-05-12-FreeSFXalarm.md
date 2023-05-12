@@ -6,37 +6,17 @@ tag: [Free SFX, Sound Effect, bell, alarm]
 sidebar:
    nav: "counts"
 ---
-<p>This is Sell Buy Music, a royalty-free music library.</p>
+<p></p><p>This is Sellbuymusic, a royalty-free music library.</p>
 <h3>Today, we have brought emergency alarm sound effects.</h3>
-<p>We have a beep beep sound effect, a ticking sound effect like a grandfather clock, and even an analog clock sound effect. Please feel free to use them as you like!</p>
-<p>&nbsp;</p>
-<img src="/images/2023-05-12-FreeSFXalarm/%5Bimage1%5D%20Emergency%20Alarm%20-%20SFX.jpg" alt="[image1] Emergency Alarm - SFX">
-
+<p>We have a beep beep sound effect, a ticking sound effect like a grandfather clock, and even an analog clock sound effect. Please feel free to use them as you like!</p><p><br /></p>
 <ul>
-<li><strong>Emergency Alarm</strong> 
-<strong><a href='https://en.sellbuymusic.com/search/soundeffect/0/emergency/' target='_blank' class='url'>https://en.sellbuymusic.com/search/soundeffect/0/emergency/</a></strong> 
-These are electronic alarm sounds that make a beeping noise. 
-<strong><a href='https://en.sellbuymusic.com/search/soundeffect/0/emergency/1'>1</a><a href='https://en.sellbuymusic.com/search/soundeffect/0/industrial/1' target='_blank' class='url'>https://en.sellbuymusic.com/search/soundeffect/0/industrial/1</a></strong> 
-There are three different types, so we recommend using the one that fits your video!</li>
-
-<img src="/images/2023-05-12-FreeSFXalarm/%5Bimage2%5D%20Clock%20Alarm%20-%20SFX.jpg" alt="[image2] Clock Alarm - SFX">
-
+<li><b>Emergency Alarm</b><br /><strong><a href="https://en.sellbuymusic.com/search/soundeffect/0/emergency/">https://en.sellbuymusic.com/search/soundeffect/0/emergency/</a><br /></strong>These are electronic alarm sounds that make a beeping noise.
+<strong><a href="https://en.sellbuymusic.com/search/soundeffect/0/industrial/1">https://en.sellbuymusic.com/search/soundeffect/0/industrial/1</a><br /></strong>There are three different types, so we recommend using the one that fits your video!</li></ul><p><br /></p>
 <ul>
-	<li>時計 (clock alarm)<br>
-	<a href="https://jp.sellbuymusic.com/search/soundeffect/0/시계/1" rel="noopener noreferrer" target="_blank">https://jp.sellbuymusic.com/search/soundeffect</a><br>
-	clock single: 秒針の音が一回短く鳴る効果音です。 grandfather clock: グランドファーザークロックの鐘の音です。 clock alarm: 電子式の目覚まし時計の効果音です！</li>
+<li><strong>Clock Alarm</strong>
+<strong><a href="https://en.sellbuymusic.com/search/soundeffect/0/%EC%8B%9C%EA%B3%84/1"></a><a href="https://en.sellbuymusic.com/search/soundeffect/0/%EC%8B%9C%EA%B3%84/1">https://en.sellbuymusic.com/search/soundeffect/0/시계/1</a><br /></strong>Clock single: A short sound effect of the second hand ticking once.<br />Grandfather clock: The sound effect of a grandfather clock ticking.<br />Clock alarm: The sound effect of an electronic alarm clock!</li>
 </ul>
-
-<p>今回の効果音もお役に立てれば幸いです！</p>
-
-<p>もし効果音のコレクションが必要な場合は、コメントを残してください！ そして、Sell Buy Musicからは無料でダウンロードできますので、</p>
-
-<p>以下のリンクからSellBuyMusicと一緒にお楽しみください！</p>
-
-<p>&nbsp;</p>
-
-<p>著作権フリーのBGMライブラリ</p>
-
-<p>SELLBUYMUSIC</p>
-
-<p><a class="url" href="https://jp.sellbuymusic.com/" target="_blank">https://jp.sellbuymusic.com/</a></p>
+<p>We hope this sound effect will be helpful to you too!</p>
+<p>If you need a collection of sound effects, please leave a comment!
+And remember, you can download them for free from SellBuyMusic using the link below!</p>
+<p><br /></p><p></p><div style="text-align: center;">Royalty free background music library</div><div style="text-align: center;">SELLBUYMUSIC</div><div style="text-align: center;"><a href="https://en.sellbuymusic.com/"></a><a href="https://en.sellbuymusic.com/">https://en.sellbuymusic.com/</a></div><br />
