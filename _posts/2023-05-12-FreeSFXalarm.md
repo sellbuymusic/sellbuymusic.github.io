@@ -10,9 +10,11 @@ sidebar:
 <h3>Today, we have brought emergency alarm sound effects.</h3>
 <p>We have a beep beep sound effect, a ticking sound effect like a grandfather clock, and even an analog clock sound effect. Please feel free to use them as you like!</p><p><br /></p>
 <ul>
+<img src="/images/2023-05-12-FreeSFXalarm/%5Bimage1%5D%20Emergency%20Alarm%20-%20SFX.jpg" alt="[image1] Emergency Alarm - SFX">
 <li><b>Emergency Alarm</b><br /><strong><a href="https://en.sellbuymusic.com/search/soundeffect/0/emergency/">https://en.sellbuymusic.com/search/soundeffect/0/emergency/</a><br /></strong>These are electronic alarm sounds that make a beeping noise.
 <strong><a href="https://en.sellbuymusic.com/search/soundeffect/0/industrial/1">https://en.sellbuymusic.com/search/soundeffect/0/industrial/1</a><br /></strong>There are three different types, so we recommend using the one that fits your video!</li></ul><p><br /></p>
 <ul>
+<img src="/images/2023-05-12-FreeSFXalarm/%5Bimage2%5D%20Clock%20Alarm%20-%20SFX.jpg" alt="[image2] Clock Alarm - SFX">
 <li><strong>Clock Alarm</strong>
 <strong><a href="https://en.sellbuymusic.com/search/soundeffect/0/%EC%8B%9C%EA%B3%84/1"></a><a href="https://en.sellbuymusic.com/search/soundeffect/0/%EC%8B%9C%EA%B3%84/1">https://en.sellbuymusic.com/search/soundeffect/0/시계/1</a><br /></strong>Clock single: A short sound effect of the second hand ticking once.<br />Grandfather clock: The sound effect of a grandfather clock ticking.<br />Clock alarm: The sound effect of an electronic alarm clock!</li>
 </ul>
