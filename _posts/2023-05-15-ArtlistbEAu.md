@@ -9,7 +9,7 @@ sidebar:
 <p>Hello everyone, this is SELLBUYMUSIC, a royalty-free stock music library!</p>
 <p>We&#39;ve brought an interview with this month&#39;s artist, bEAu!</p>
 <p><img src="/images/2023-05-15-ArtlistbEAu/%EC%9D%B4%EB%AF%B8%EC%A7%801-%20%EB%B7%B0.png" alt="[image 1] Introduction of bEAu - Sellbuymusic artist"></p>
-<p><a href='https://en.sellbuymusic.com/artistDetail/17064' target='_blank' class='url'>https://en.sellbuymusic.com/artistDetail/17064</a></p>
+<p><a href='https://en.sellbuymusic.com/musicDetail/24682' target='_blank' class='url'>https://en.sellbuymusic.com/musicDetail/24682</a></p>
 <p>&nbsp;</p>
 <p><strong>Q1. Please introduce yourself. What genre of music do you mainly produce?</strong></p>
 <p>A1. Hello, I&#39;m bEAu. Currently, I&#39;m working as a drama background music composer and bEAu is my stage name. Since I mainly work on drama background music, I don&#39;t really stick to a specific genre when composing. When I release my own albums, I tend to produce more ambient and minimalist music!</p>
