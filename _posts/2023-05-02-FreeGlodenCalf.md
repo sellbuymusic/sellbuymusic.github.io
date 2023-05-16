@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "[🎵Free Background Music] Gear Up - GoldenCalf"
+categories: Free BGM
+tag: [Free, BGM, GoldenCalf]
 sidebar:
     nav: "counts"
 ---
