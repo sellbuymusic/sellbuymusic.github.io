@@ -20,7 +20,7 @@ sidebar:
 <p>Mixed &amp; Mastered by YeaHN</p>
 <p>BGM Project Director Kaiser</p><p><br /></p>
 <p><strong>Artist [ Kaiser ]</strong></p>
-<p><img src="images/2023-05-16-FreeKaiser/Kaiser%20-%20Sellbuymusic%20Artist.png" alt="[image 2] Kaiser - Sellbuymusic Artist"></p>
+<p><img src="/images/2023-05-16-FreeKaiser/Kaiser%20-%20Sellbuymusic%20Artist.png" alt="[image 2] Kaiser - Sellbuymusic Artist"></p>
 <p><a href="https://en.sellbuymusic.com/musicDetail/25002">🎧 Download / Stream</a></p>
 <p>Right now, Download 'Do you want to go see the cherry blossoms?' for free right now at SellBuyMusic🤎
 Artist Kaiser's "Do you want to go see the cherry blossoms?" is available for free download
