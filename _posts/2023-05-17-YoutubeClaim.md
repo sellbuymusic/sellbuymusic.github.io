@@ -18,9 +18,9 @@ sidebar:
 <p>A. Yes, it is. There are three rights related to music: the right of the lyricist and composer, the neighboring rights of the performers, and the right of the record producer. To cover a song on YouTube, you need to obtain permission from all three parties, which is a difficult task in practice.</p>
 <p>&nbsp;</p>
 <p>Therefore, the rights holders entrust their rights to a trust management organization: </p>
-<p>✔️ Lyricists and composers - Korea Music Copyright Association, Music Copyright Association 
-✔️ Performers (instrumentalists, singers) - Korea Music Performers&#39; Association 
-✔️ Record producers - Korea Music Industry Association</p>
+<p>✔️ Lyricists and composers - Korea Music Copyright Association, Music Copyright Association </p>
+<p>✔️ Performers (instrumentalists, singers) - Korea Music Performers&#39; Association </p>
+<p>✔️ Record producers - Korea Music Industry Association</p>
 <p>&nbsp;</p>
 <p><img src="/images/2023-05-17-YoutubeClaim/movie%20youtuber.png" alt="[image2] Example of YouTube movie reviewers"></p>
 <p>If you want to use a movie clip, you must obtain permission from a trust management company.</p>
