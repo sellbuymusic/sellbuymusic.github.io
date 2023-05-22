@@ -21,7 +21,7 @@ sidebar:
 <p><strong>Q3. Are there any artists or songs that inspire you?</strong> </p>
 <p>A3. I listen to a lot of Zedd and Avicii&#39;s music, and they have influenced me greatly.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4HrU1EbataI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p><a href='https://www.youtube.com/watch?v=OIoPp0Y3W7U' target='_blank' class='url'>https://www.youtube.com/watch?v=OIoPp0Y3W7U</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIoPp0Y3W7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p>&nbsp;</p>
 <p><strong>Q4. If there is a particular aspect you focus on when making music, what would it be?</strong> </p>
 <p>A4. I consider coloration to be the most important. While the technical elements that compose the music are also crucial, I tend to prioritize contemplating what I want to convey through the music.</p>
