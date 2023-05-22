@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Artist of This Week : bEAu"
-categories: Artist
+categories: Sellbuymusic Artist
 tag: [BGM Artist, Drama Music, bEAu]
 sidebar:
    nav: "counts"
