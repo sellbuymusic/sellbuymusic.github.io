@@ -13,7 +13,7 @@ sidebar:
 <p>These sound effects are used quite often, right? There are more moments where these sound effects come into play than you might think! That&#39;s why we prepared them! Shall we go check them out together?</p>
 <li><strong>Toilet</strong></li>
 
-</ul>
+
 <p><a href='https://en.sellbuymusic.com/search/soundeffect/0/Toilet/1' target='_blank' class='url'>https://en.sellbuymusic.com/search/soundeffect/0/Toilet/1</a></p>
 <ul>
 <li><strong>Shower</strong></li>
