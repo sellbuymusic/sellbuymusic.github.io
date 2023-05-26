@@ -9,7 +9,7 @@ sidebar:
 <p>Hello! We are SELLBUYMUSIC, a royalty-free music library.</p>
 <p>Today, we have brought water-related sound effects, such as toilet, shower, faucet, spray, and underwater.</p>
 <p>&nbsp;</p>
-<p><img src="/images/2023-05-26-FreeSFXWater/20230526water" alt="[image1] water drop - water-related sound effects"></p>
+<p><img src="/images/2023-05-26-FreeSFXWater/20230526water.jpg" alt="[image1] water drop - water-related sound effects"></p>
 <p>These sound effects are used quite often, right? There are more moments where these sound effects come into play than you might think! That&#39;s why we prepared them! Shall we go check them out together?</p>
 <li><strong>Toilet</strong></li>
 
