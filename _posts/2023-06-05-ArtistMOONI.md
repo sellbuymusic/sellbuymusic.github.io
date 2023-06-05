@@ -25,7 +25,7 @@ sidebar:
 <p><strong>Q4. If there is a particular aspect that you pay the most attention to when creating music, what would it be?</strong></p> 
 <p>A4. I believe that creating one song with musicality and persuasiveness is more important than making many songs. Personally, as a composer with a lot of things to express, I can create multiple works in a short period of time. However, after organizing and reviewing them, I realized that there weren&#39;t many songs worth using. I strive to maintain musicality and persuasiveness because I want to create more songs that are worth using. 😄</p>
 <p>&nbsp;</p>
-<p><strong>Q5. If there is a favorite song among the music you have created, what song is it?</strong></p></p> 
+<p><strong>Q5. If there is a favorite song among the music you have created, what song is it?</strong></p>
 <p>A5. I love the song titled &quot;The Time I Think of You&quot; the most. This song was an attempt to express my feelings of uncertainty through music. Although it&#39;s not perfect yet, it&#39;s a song that brings back the emotions of that time when I listen to it personally.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/5POvG7YUejg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <p>&nbsp;</p>
