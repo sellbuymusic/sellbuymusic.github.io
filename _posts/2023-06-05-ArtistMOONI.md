@@ -6,7 +6,6 @@ tag: [BGM Artist, Movie Music, MOONI]
 sidebar:
    nav: "counts"
 ---
-<h1>Artist of This Week : MOONI</h1>
 <p>Hello, everyone! This is SELLBUYMUSIC, a royalty-free stock music library.</p>
 <p>We have brought an artist interview for this month! Shall we take a look at the interview with the artist &#39;MOONI&#39;?</p>
 <p>&nbsp;</p>
