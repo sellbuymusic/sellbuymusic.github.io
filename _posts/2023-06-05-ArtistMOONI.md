@@ -20,7 +20,6 @@ sidebar:
 <p>A3. I still frequently listen to the La La Land soundtrack. Just by enjoying the music, it stimulates my imagination to the point where I can envision scenes from the movie. I have a song called &quot;MOON LAND,&quot; which I created by capturing the feeling of visiting a amusement park in Dangjin.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/0pdqf4P9MB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/-E7v0kQ2Cl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-</p>
 <p>&nbsp;</p>
 <p><strong>Q4. If there is a particular aspect that you pay the most attention to when creating music, what would it be?</strong></p> 
 <p>A4. I believe that creating one song with musicality and persuasiveness is more important than making many songs. Personally, as a composer with a lot of things to express, I can create multiple works in a short period of time. However, after organizing and reviewing them, I realized that there weren&#39;t many songs worth using. I strive to maintain musicality and persuasiveness because I want to create more songs that are worth using. 😄</p>
