@@ -16,10 +16,10 @@ sidebar:
 <p>A2. I had experience creating YouTube videos, so I was aware of the existence of such platforms. While searching for ways to monetize my music, I came across a blog post about SELLBUYMUSIC and decided to check it out.</p>
 <p>Q3. Do you have any artists or songs that inspire you?</p>
 <p>A3. Even during a period of life when I was quite distant from music, I loved &quot;Joe Hisaishi - Merry-Go-Round of Life”, which resonated strongly with me compared to now. As a reference, I&#39;m constantly creating songs like &quot;Story: cinematic bgm&quot; and &quot;sad love: cinematic bgm&quot; among my own compositions.</p>
-<p>&nbsp;</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/f7SS57LFPco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <p><a href='https://en.sellbuymusic.com/musicDetail/24915' target='_blank' class='url'>https://en.sellbuymusic.com/musicDetail/24915</a></p>
 <p><a href='https://en.sellbuymusic.com/musicDetail/24681' target='_blank' class='url'>https://en.sellbuymusic.com/musicDetail/24681</a></p>
+<p>&nbsp;</p>
 <p>Q4. What aspect do you pay the most attention to when creating music?</p>
 <p>A4. I always strive to make it &quot;a little more innovative!&quot; Rapidly changing and vast, I believe that in order to grow, music representing such a world should be slightly more fresh.</p>
 <p>Q5. If you have a favorite song among your creations, which one is it?</p>
