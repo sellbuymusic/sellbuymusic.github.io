@@ -8,7 +8,7 @@ sidebar:
 ---
 <p>Hello, this is the royalty-free music library SELLBUYMUSIC.</p>
 <p>Today, we have prepared a collection of sound effects including TV, computer, record, radio, and phone sounds. 👏🏻👏🏻</p>
-<p>[image 1] TV with noise screen</p>
+<p><img src="/images/2023-07-04-FreeSFXnoise/20230704TVnoise.jpg" alt="[image 1] TV with noise screen"></p>
 <ul>
 <li><p>TV </p>
 <p>These are the sound effects you can use when operating a TV, such as &#39;beep&#39; and &#39;zzzzip&#39;. </p>
