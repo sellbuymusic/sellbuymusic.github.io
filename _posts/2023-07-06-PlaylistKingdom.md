@@ -7,7 +7,7 @@ sidebar:
    nav: "counts"
 ---
 <p>Hello, this is SellBuyMusic!</p>
-<p>[image1] Drama "Kingdom" Poster</p>
+<p><img src="/images/2023-07-06-PlaylistKingdom/K-Drama Kingtheland.jpg" alt="[image1] Drama Kingdom Poster"></p>
 <p>Do you know the JTBC drama "Kingdom"?</p>
 <p>"Kingdom" is a drama starring Lee Jun-ho and Im Yoon-ah, and it is based on a webtoon serialized on Kakao.</p>
 <p>It's a romance story about Cheon Sarang (Yoon-ah), an angelic hotelier at King Hotel, and Gu Won (Lee Jun-ho), who dislikes laughter. (The visual combination is amazing..🤩)</p>
